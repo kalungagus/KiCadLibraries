@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1727
+D 1.5A, Low Voltage, Low Quiescent Current LDO Regulator
+K Regulator, LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21999b.pdf
+$ENDCMP
+#
+#End Doc Library

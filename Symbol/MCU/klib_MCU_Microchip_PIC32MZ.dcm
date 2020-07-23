@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC32MZ2048EFM100
+D 32-bit MCUs (up to 2 MB Live-Update Flash and 512 KB SRAM) with FPU, Audio and Graphics Interfaces, HS USB, Ethernet, and Advanced Analog
+K MCU, 32-bit
+F http://ww1.microchip.com/downloads/en/DeviceDoc/PIC32MZ%20EF%20Family%20Datasheet_DS60001320G.pdf
+$ENDCMP
+#
+#End Doc Library

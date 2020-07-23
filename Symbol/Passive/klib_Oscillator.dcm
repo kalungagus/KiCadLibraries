@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASDMB-24.000MHZ-LC-T
+D 1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator, Abracon
+K 1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator
+F https://abracon.com/Oscillators/ASDMB.pdf
+$ENDCMP
+#
+$CMP ASDMB-xxxxMHZ
+D 1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator, Abracon
+K 1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator
+F https://abracon.com/Oscillators/ASDMB.pdf
+$ENDCMP
+#
+#End Doc Library
